@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "BedrockEdit",
+        "description": "My Bedrock Edition version of Java's WorldEdit.",
+        "uuid": "15bfe770-7bc9-4624-989e-f5221fb777ef",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 8, 0]
+    },
+    "modules": [
+        {
+            "description": "Made by KactiKarrot",
+            "type": "data",
+            "uuid": "16762454-5fde-4f42-8973-1b4763bef8ec",
+            "version": [0, 0, 1]
+        }
+    ]
+}
