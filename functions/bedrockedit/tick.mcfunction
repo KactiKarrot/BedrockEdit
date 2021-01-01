@@ -18,6 +18,7 @@ execute @e[scores={outline=1, size=15}] ~ ~ ~ execute @a[tag=bedrockedit] ~ ~ ~ 
 execute @e[scores={outline=1, size=20}] ~ ~ ~ execute @a[tag=bedrockedit] ~ ~ ~ function bedrockedit/particle/20x20x20
 
 ##Previous Worldedit System (BlockPainter)
+execute @a[tag=bedrockedit] ~ ~ ~ function bedrockedit/painter/tpitems
 execute @e[name="§aGrass"] ~ ~ ~ execute @p ~ ~ ~ function bedrockedit/painter/grass
 
 
