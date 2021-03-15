@@ -22,7 +22,7 @@ One of the main features of this pack is the ability to copy and paste structure
 -Rotation
 The rotation available is 0°, 90°, 180°, and 270°. When you have a rotation selected, the outline will show you where corner closest to you when saved will end up.
 ### WorldPainter - Not Done
-The WorldPainter tool was created by me and a friend of mine. It is quite a simple tool. It allows you to choose a block to paint with (Grass, Stone, Dirt, Air), and the size of it, and then whereever you look the blocks are placed. You can also do snow which will be placed in a 5x5 layer. If you are no a lower end device this can lag your game, especially if repeatedly dropped. I am aware that other people have created a similar system that works on the same principle as this, however we made this entirely on our own.
+The WorldPainter tool was created by me and a friend of mine. It is quite a simple tool. It allows you to choose a block to paint with (Grass, Stone, Dirt, Air), and the size of it, and then whereever you look the blocks are placed. You can also do snow which will be placed in a 5x5 layer. If you are on a lower end device this can lag your game, especially if repeatedly dropped. I am aware that other people have created a similar system that works on the same principle as this, however we made this entirely on our own.
 ### Stone Replacer - Not Done
 This one not everyone may find as useful but I use it so I have chosen to include it anyways. This one replaces all unpolished diorite, granite, and andesite with regular stone within a 31x31x31 block area around the player. This can be used if you are creating custom caves and don't want the vanilla generation in your way.
 ### Entity Eraser(Non-Player) - Not Done
